@@ -917,15 +917,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"spellchecker@smarkup/node-spellchecker#8193647fde43ebb775d06abb63b8408dfc35d3d7":
+"spellchecker@smarkup/node-spellchecker#e12ca830db5a2ed0d7d0912229b09754423ff0e2":
   version: 3.7.0
-  resolution: "spellchecker@https://github.com/smarkup/node-spellchecker.git#commit=8193647fde43ebb775d06abb63b8408dfc35d3d7"
+  resolution: "spellchecker@https://github.com/smarkup/node-spellchecker.git#commit=e12ca830db5a2ed0d7d0912229b09754423ff0e2"
   dependencies:
     any-promise: ^1.3.0
     nan: ^2.14.0
     node-gyp-build: ^4.2.3
     prebuildify: ^4.1.2
-  checksum: e415b71e7c83f27fd203be72b94617bb2a77826f97850b92bd4feeb876834e8a7a66904a48e2116ec30dae5fd78dc6b1cb694a4739b14a66c07086c28fe4ca5e
+  checksum: 566bc4807eb3d969e208bc78e0b88badd60dc923b4c7bb1ea4f15c99f5ec1200e4317991844d11eb26a6b26c458da155e3c0da484cf5f1a43261e23141965767
   languageName: node
   linkType: hard
 
@@ -1153,6 +1153,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-diff@workspace:."
   dependencies:
-    spellchecker: "smarkup/node-spellchecker#8193647fde43ebb775d06abb63b8408dfc35d3d7"
+    spellchecker: "smarkup/node-spellchecker#e12ca830db5a2ed0d7d0912229b09754423ff0e2"
   languageName: unknown
   linkType: soft

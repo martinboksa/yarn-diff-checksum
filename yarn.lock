@@ -925,7 +925,7 @@ __metadata:
     nan: ^2.14.0
     node-gyp-build: ^4.2.3
     prebuildify: ^4.1.2
-  checksum: 566bc4807eb3d969e208bc78e0b88badd60dc923b4c7bb1ea4f15c99f5ec1200e4317991844d11eb26a6b26c458da155e3c0da484cf5f1a43261e23141965767
+  checksum: e415b71e7c83f27fd203be72b94617bb2a77826f97850b92bd4feeb876834e8a7a66904a48e2116ec30dae5fd78dc6b1cb694a4739b14a66c07086c28fe4ca5e
   languageName: node
   linkType: hard
 

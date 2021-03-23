@@ -1,0 +1,11 @@
+{
+  "name": "yarn-diff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martinboksa/yarn-diff-checksum.git",
+  "author": "Martin Boksa <martin.boksa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spellchecker": "smarkup/node-spellchecker#8193647fde43ebb775d06abb63b8408dfc35d3d7"
+  }
+}
